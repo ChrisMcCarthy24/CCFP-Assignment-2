@@ -7,7 +7,7 @@ Brent Rushton
  - Created the repository along with the initial commits
  - Created the shared google doc and created the problem to be solved in the assignment
  - Created ProductNums.py which takes two user inputted integers and multiplies them, returning the product back to the user
- - Created ProductNums.py
+ - Created SquareNum.py
  - Created SumNums.py
    
 Chris McCarthy
